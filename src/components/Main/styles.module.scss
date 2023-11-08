@@ -27,9 +27,9 @@
   }
 }
 
-.characters {
+.agents {
   background-color: blue;
   flex: 1;
+  display: flex;
+  column-gap: 16px;
 }
-
-
